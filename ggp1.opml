@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head title="ggp1" />
+<body>
+<outline text="ggp1">
+<outline text="gp1">
+<outline text="p1">
+<outline text="c1" />
+<outline text="c2">
+<outline text="gc1" />
+<outline text="gc2">
+<outline text="ggc1" />
+</outline>
+</outline>
+<outline text="c3">
+<outline text="gc3" />
+</outline>
+</outline>
+<outline text="p2" />
+</outline>
+<outline text="gp2">
+<outline text="p3" />
+</outline>
+</outline>
+</body>
+</opml>
